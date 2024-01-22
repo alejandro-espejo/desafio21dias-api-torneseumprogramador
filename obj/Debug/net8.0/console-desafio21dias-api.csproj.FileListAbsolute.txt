@@ -1,0 +1,14 @@
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\console-desafio21dias-api.exe
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\console-desafio21dias-api.deps.json
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\console-desafio21dias-api.runtimeconfig.json
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\console-desafio21dias-api.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\console-desafio21dias-api.pdb
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.AssemblyInfo.cs
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\refint\console-desafio21dias-api.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.pdb
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.genruntimeconfig.cache
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\ref\console-desafio21dias-api.dll
