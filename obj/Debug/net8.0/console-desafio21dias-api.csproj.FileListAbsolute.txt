@@ -12,3 +12,4 @@ C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio
 C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.pdb
 C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.genruntimeconfig.cache
 C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\ref\console-desafio21dias-api.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.sourcelink.json

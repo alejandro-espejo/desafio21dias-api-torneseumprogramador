@@ -7,6 +7,22 @@ namespace console_desafio21dias_api
     {
         static void Main(string[] args)
         {
+
+            List<dynamic> alunos = new List<dynamic>();
+            alunos.Add(new {
+                Nome = "Danilo", Matricula = "001", Notas = "10, 8, 7"
+            });
+            alunos.Add(new {
+                Nome = "Estela", Matricula = "001", Notas = "10, 8, 7"
+            });
+
+            foreach(var aluno in alunos) {
+                Console.WriteLine($"Nome: {aluno.Nome}, Matricula: {aluno.Matricula}, Nota: {aluno.Notas}");
+            }
+            return;
+
+
+
             /*
                 Daniel é um agricultor e precisa de um programa que ao digitar o numero inicial e final, o programa mostra
                 repetidamente todos os números na tela
@@ -29,16 +45,8 @@ namespace console_desafio21dias_api
             foreach(int item in itens) {
                 Console.WriteLine("Teste:" + item);
             }
-            return;
 
-
-
-
-
-
-
-
-
+            int[][] itensMatriz = new int[][]{[1,3,4,5],[2,3,4,5]};
 
 
 
