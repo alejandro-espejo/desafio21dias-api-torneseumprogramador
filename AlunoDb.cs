@@ -40,23 +40,6 @@ namespace console_desafio21dias_api
             sqlConnection.Dispose();
             return alunos;
         }
-
-        public void Apagar()
-        {
-            Aluno.ApagarPorId(this.Id);
-        }
-
-        public void Salvar() 
-        {
-            if (this.Id > 0) 
-            {
-                Aluno.Atualizar(this);
-            }
-            else
-            {
-                Aluno.Incluir(this);
-            }
-        }
         
         public static void ApagarPorId(int id)
         {

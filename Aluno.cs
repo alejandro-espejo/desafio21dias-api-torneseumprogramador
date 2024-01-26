@@ -46,6 +46,23 @@ namespace console_desafio21dias_api
             return this.CalcularMedia() >= 7 ? "APROVADO" : "REPROVADO";
         }
 
+        public void Apagar()
+        {
+            Aluno.ApagarPorId(this.Id);
+        }
+
+        public void Salvar() 
+        {
+            if (this.Id > 0) 
+            {
+                Aluno.Atualizar(this);
+            }
+            else
+            {
+                Aluno.Incluir(this);
+            }
+        }
+
         #endregion
 
     }
