@@ -13,3 +13,11 @@ C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio
 C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.genruntimeconfig.cache
 C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\ref\console-desafio21dias-api.dll
 C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.sourcelink.json
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\torneseumprogramador\desafio21dias-dotnet\console-desafio21dias-api\obj\Debug\net8.0\console-desafio21dias-api.csproj.CopyComplete

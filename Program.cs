@@ -7,6 +7,22 @@ namespace console_desafio21dias_api
     {
         static void Main(string[] args)
         {
+            //new Aluno() {Nome = "Gilmar", Matricula = "004", Notas = new List<double>() {6, 6, 9}}.Salvar();
+            //new Aluno() {Nome = "Raul", Matricula = "005", Notas = new List<double>() {5, 6, 3}}.Salvar();
+            //new Aluno() {Nome = "Marina", Matricula = "006", Notas = new List<double>() {9, 9, 10}}.Salvar();
+            var alunosBanco = Aluno.Todos();
+            foreach(var item in alunosBanco) 
+            {
+                //item.Notas.Add(10);
+                //item.Salvar();
+                //item.Apagar();
+                //break;
+                Console.WriteLine($"Nome: {item.Nome}, Matricula: {item.Matricula}, Notas: {string.Join(",",item.Notas.ToArray())}, "
+                + $"Média: {item.CalcularMedia()}, Resultado: {item.Situacao()}");
+            }
+
+            return;
+
 
             /*
                 Valquiria é a diretora da escola Mundo Melhor. Ela precisa de um programa que armazene alunos com suas matriculas
