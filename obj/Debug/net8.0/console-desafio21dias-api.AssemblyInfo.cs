@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("console-desafio21dias-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23b3899671f2a99132a18d53e560d0db128a25b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b0583c4cc15069f487e43ca0a7bc747d6f53cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("console-desafio21dias-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("console-desafio21dias-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
