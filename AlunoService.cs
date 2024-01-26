@@ -4,7 +4,7 @@ using System.Xml;
 
 namespace console_desafio21dias_api
 {
-    partial class Aluno
+    class AlunoService
     {
 
         #region Metodos de classe ou estaticos

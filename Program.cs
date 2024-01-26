@@ -10,7 +10,7 @@ namespace console_desafio21dias_api
             //new Aluno() {Nome = "Gilmar", Matricula = "004", Notas = new List<double>() {6, 6, 9}}.Salvar();
             //new Aluno() {Nome = "Raul", Matricula = "005", Notas = new List<double>() {5, 6, 3}}.Salvar();
             //new Aluno() {Nome = "Marina", Matricula = "006", Notas = new List<double>() {9, 9, 10}}.Salvar();
-            var alunosBanco = Aluno.Todos();
+            var alunosBanco = AlunoService.Todos();
             foreach(var item in alunosBanco) 
             {
                 //item.Notas.Add(10);

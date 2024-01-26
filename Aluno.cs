@@ -4,7 +4,7 @@ using System.Xml;
 
 namespace console_desafio21dias_api
 {
-    partial class Aluno
+    class Aluno
     {
         #region Propriedades
         public int Id { get; set; }
@@ -17,7 +17,8 @@ namespace console_desafio21dias_api
         public List<double> Notas { 
             get 
             {
-                if (this.notas == null) {
+                if (this.notas == null) 
+                {
                     this.notas = new List<double>();
                 }
                 return this.notas;
@@ -48,18 +49,18 @@ namespace console_desafio21dias_api
 
         public void Apagar()
         {
-            Aluno.ApagarPorId(this.Id);
+            AlunoService.ApagarPorId(this.Id);
         }
 
         public void Salvar() 
         {
             if (this.Id > 0) 
             {
-                Aluno.Atualizar(this);
+                AlunoService.Atualizar(this);
             }
             else
             {
-                Aluno.Incluir(this);
+                AlunoService.Incluir(this);
             }
         }
 
